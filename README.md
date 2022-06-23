@@ -1,1 +1,3 @@
 # star_jeans
+
+A Star Jeans é uma empresa brasileira(fictícia) que tem como modelo de negócio atuar no mercado de E-commerce dos USA. Inicialmente, o produto a ser comercializado é calça jeans masculina e para isso seus sócios precisam conhecer o mercado. O objetivo é manter o custo de operação baixo e escalar a medida que forem conseguindo clientes. No entanto, precisam entender mais sobre esse mercado de moda e definir atributos importantes: melhor preço, tipo de calça, cores e matéria-prima. O problema de negócio será respondido por meio de ferramentas e métodos da ciência de dados com planejamento, mapeamento de métricas, webscraping, python, banco de dados, SQL, design de ETL e análise de dados.
